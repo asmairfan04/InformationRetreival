@@ -1,0 +1,27 @@
+{
+    "dev": {
+      "61a46987092f11ebbdaeac1f6bf848b6": {
+        "ambiguous_question": "What is the goal of the Polish-Russian War film?",
+        "annotations": "Polish-Russian War (film) is a 2009 Polish film directed by Xawery Żuławski based on the novel Polish-Russian War under the white-red flag by Dorota Masłowska.",
+        "long_answer": {
+          "0": "The Civil Liberties Act of 1988 is a United States federal law that granted reparations to Japanese Americans who had been interned by the United States government during World War II.",
+          "1": "In the act, the blame for the internment of U.S. citizens was placed on the people of the United States, by apologizing on behalf of them."
+        },
+        "metadata": {
+          "sample_id": "61a46987092f11ebbdaeac1f6bf848b6"
+        }
+      },
+      "61a46987092f11ebbdaeac1f6bf848b7": {
+        "ambiguous_question": "Who was Xawery Żuławski's mother?",
+        "annotations": "Xawery Żuławski is the son of actress Małgorzata Braunek and director Andrzej Żuławski.",
+        "long_answer": {
+          "0": "The Civil Liberties Act of 1988 is a United States federal law that granted reparations to Japanese Americans who had been interned by the United States government during World War II.",
+          "1": "In the act, the blame for the internment of U.S. citizens was placed on the people of the United States, by apologizing on behalf of them."
+        },
+        "metadata": {
+          "sample_id": "61a46987092f11ebbdaeac1f6bf848b7"
+        }
+      }
+    }
+  }
+  

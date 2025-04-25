@@ -1,0 +1,21 @@
+{
+    "dev": {
+      "61a46987092f11ebbdaeac1f6bf848b6": {
+        "question": "What is the goal of the Polish-Russian War film?",
+        "context": "Polish-Russian War (film) is a 2009 Polish film directed by Xawery Żuławski based on the novel Polish-Russian War under the white-red flag by Dorota Masłowska.",
+        "answers": [],
+        "metadata": {
+          "sample_id": "61a46987092f11ebbdaeac1f6bf848b6"
+        }
+      },
+      "61a46987092f11ebbdaeac1f6bf848b7": {
+        "question": "Who was Xawery Żuławski's mother?",
+        "context": "Xawery Żuławski is the son of actress Małgorzata Braunek and director Andrzej Żuławski.",
+        "answers": [],
+        "metadata": {
+          "sample_id": "61a46987092f11ebbdaeac1f6bf848b7"
+        }
+      }
+    }
+  }
+  

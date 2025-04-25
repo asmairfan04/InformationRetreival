@@ -1,0 +1,14 @@
+{
+    "input": "data/strategyqa.json",
+    "dataset": "strategyqa",
+    "model": "gpt-3.5-turbo",
+    "prompt_type": "cot",
+    "retriever": "bm25",
+    "ctx_position": "before_case",
+    "ctx_increase": "replace",
+    "add_ref_prefix": null,
+    "add_ref_suffix": null,
+    "debug": true,
+    "final_stop_sym": "\n\n"
+  }
+  
